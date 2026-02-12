@@ -39,5 +39,11 @@ Linux
     Scripting
         Variables - global/local
         Redirect I/O
+
         
-        
+kajsdfk;jashdfk;jhasdk;fh
+asdfkjndk;fjna;kdsjfn
+kajsdbnfkjabdfkjbasd
+jkadnsfjabsndfjnasd
+kajdsnfkjabndfjlnsa
+kasbndfkjabns
