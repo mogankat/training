@@ -39,16 +39,3 @@ Linux
     Scripting
         Variables - global/local
         Redirect I/O
-
-        
-kajsdfk;jashdfk;jhasdk;fh
-asdfkjndk;fjna;kdsjfn
-kajsdbnfkjabdfkjbasd
-jkadnsfjabsndfjnasd
-kajdsnfkjabndfjlnsa
-kasbndfkjabns
- test changes.
- I am doing stuff.
- I am adding stuff here.
- Morgan is a yucky butt.
- stuff things stuff things.       
